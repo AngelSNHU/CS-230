@@ -1,6 +1,7 @@
 # CS-230
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 Answer: The Gaming Room client was requesting to make their app “Draw It or Lose It” into a web-based game. The software requirements were to have multiple team involvement in the game, with also multiple players assigned per team, unique names for the game as well and unique team names, and lastly allowing for one instance of the game at a time. 
+
 What did you do particularly well in developing this documentation?
 Answer: I find for what I did well on developing the documentation was being aware of the design constraints and following the clients design requirements. 
 What about the process of working through a design document did you find helpful when developing the code?
